@@ -1,0 +1,13 @@
+# 屏蔽Mac系统文件
+.DS_Store
+.DS_Store?
+._*
+
+# 屏蔽编辑器缓存文件（比如VSCode）
+.vscode/
+*.swp
+*.swo
+
+# 屏蔽临时文件
+*.tmp
+*.log
